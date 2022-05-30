@@ -23,8 +23,6 @@ In this example we use test `acme-regression` with the basic schema `acme-schema
 }
 ```
 
-<div class="screenshot"><img src="/assets/images/datasets/raw_input.png"></div>
-
 ## How to create a transformer?
 Problem is how to get _DataSets_ from the raw input so each _testName_ and _throughput_ goes to a separate set?
 
