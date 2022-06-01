@@ -78,7 +78,7 @@ menu: false
     </a>
     <a class="task" href="docs/datasets.html">
         <div class="task_icon_box">
-            <img src="assets/images/runs_to_datasets.png" alt="Transform Run to Dataset">
+            <img src="assets/images/runs_to_datasets.png" alt="Transform Runs to Datasets">
         </div>
         Transform Run to Dataset
     </a>
