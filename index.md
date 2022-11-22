@@ -86,6 +86,12 @@ menu: false
             <img src="assets/images/index/retransform_datasets.png" alt="Actions">
         </div>
         ...re-transform Datasets
+    <a class="task" href="docs/howto/test-json-path.html">
+        <div class="task_icon_box">
+            <img src="assets/images/index/test_jsonpath.png" alt="Actions">
+        </div>
+        ...test JSONPath on Dataset
+
     </a>
 </div>
 <h4>Discussion</h4>
