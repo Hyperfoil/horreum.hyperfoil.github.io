@@ -41,7 +41,8 @@ jobs:
         uses: actions/configure-pages@v2
 
       - name: Install npm packages
-        run: npm install postcss postcss-cli autoprefixer
+        working-directory: ./docs/site
+        run: npm install --save-dev autoprefixer postcss-cli postcss
         
       - name: Build with Hugo
         env:
