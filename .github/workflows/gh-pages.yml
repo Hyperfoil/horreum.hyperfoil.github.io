@@ -34,7 +34,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: 'Hyperfoil/Horreum'
-          ref: 'master'
+          ref: '0.10.x'
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v2
